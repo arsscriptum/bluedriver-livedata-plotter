@@ -1,0 +1,432 @@
+[
+  {
+    "DisplayName": "Engine RPM",
+    "Name": "engine_rpm",
+    "HrefId": "pid-engine-rpm"
+  },
+  {
+    "DisplayName": "Vehicle Speed",
+    "Name": "vehicle_speed",
+    "HrefId": "pid-vehicle-speed"
+  },
+  {
+    "DisplayName": "Engine Coolant Temperature",
+    "Name": "engine_coolant_temperature",
+    "HrefId": "pid-coolant-temp"
+  },
+  {
+    "DisplayName": "Engine Oil Temperature",
+    "Name": "engine_oil_temperature",
+    "HrefId": "pid-engine-oil-temperature"
+  },
+  {
+    "DisplayName": "Ambient Air Temperature",
+    "Name": "ambient_air_temperature",
+    "HrefId": "pid-ambient-air-temperature"
+  },
+  {
+    "DisplayName": "Barometric Pressure",
+    "Name": "barometric_pressure",
+    "HrefId": "pid-ambient-pressure"
+  },
+  {
+    "DisplayName": "Accelerator Pedal Position",
+    "Name": "accelerator_pedal_position",
+    "HrefId": "pid-accelerator-position"
+  },
+  {
+    "DisplayName": "Relative Accelerator Pedal Position",
+    "Name": "relative_accelerator_pedal_position",
+    "HrefId": "pid-relative-accelerator-pedal-position"
+  },
+  {
+    "DisplayName": "Commanded Throttle Actuator",
+    "Name": "commanded_throttle_actuator",
+    "HrefId": "pid-commanded-throttle-actuator"
+  },
+  {
+    "DisplayName": "Relative Throttle Position",
+    "Name": "relative_throttle_position",
+    "HrefId": "pid-relative-throttle-position"
+  },
+  {
+    "DisplayName": "Absolute Throttle Position",
+    "Name": "absolute_throttle_position",
+    "HrefId": "pid-abs-throttle"
+  },
+  {
+    "DisplayName": "Control Module Voltage",
+    "Name": "control_module_voltage",
+    "HrefId": "pid-control-module-voltage"
+  },
+  {
+    "DisplayName": "Hybrid Battery Pack Remaining Life",
+    "Name": "hybrid_battery_pack_remaining_life",
+    "HrefId": "pid-hybrid-battery-pack-remaining-life"
+  },
+  {
+    "DisplayName": "Hybrid/EV Vehicle System Status",
+    "Name": "hybridev_vehicle_system_status",
+    "HrefId": "pid-hybridev-vehicle-system-status"
+  },
+  {
+    "DisplayName": "Calculated Engine Load Value",
+    "Name": "calculated_engine_load_value",
+    "HrefId": "pid-calculated-engine-load-value"
+  },
+  {
+    "DisplayName": "Absolute Load Value",
+    "Name": "absolute_load_value",
+    "HrefId": "pid-absolute-load-value"
+  },
+  {
+    "DisplayName": "Driver's Demand Engine - Percent Torque",
+    "Name": "drivers_demand_engine_percent_torque",
+    "HrefId": "pid-drivers-demand-engine-percent-torque"
+  },
+  {
+    "DisplayName": "Actual Engine - Percent Torque",
+    "Name": "actual_engine_percent_torque",
+    "HrefId": "pid-actual-torque"
+  },
+  {
+    "DisplayName": "Engine Friction - Percent Torque",
+    "Name": "engine_friction_percent_torque",
+    "HrefId": "pid-engine-friction-percent-torque"
+  },
+  {
+    "DisplayName": "Engine Reference Torque",
+    "Name": "engine_reference_torque",
+    "HrefId": "pid-ref-torque"
+  },
+  {
+    "DisplayName": "Engine Percent Torque Data",
+    "Name": "engine_percent_torque_data",
+    "HrefId": "pid-engine-percent-torque-data"
+  },
+  {
+    "DisplayName": "Auxiliary Input/Output",
+    "Name": "auxiliary_inputoutput",
+    "HrefId": "pid-auxiliary-inputoutput"
+  },
+  {
+    "DisplayName": "Exhaust Gas Temperature (EGT)",
+    "Name": "exhaust_gas_temperature_egt",
+    "HrefId": "pid-exhaust-gas-temperature-egt"
+  },
+  {
+    "DisplayName": "Engine Exhaust Flow Rate",
+    "Name": "engine_exhaust_flow_rate",
+    "HrefId": "pid-engine-exhaust-flow-rate"
+  },
+  {
+    "DisplayName": "Exhaust Pressure",
+    "Name": "exhaust_pressure",
+    "HrefId": "pid-exhaust-pressure"
+  },
+  {
+    "DisplayName": "Manifold Surface Temperature",
+    "Name": "manifold_surface_temperature",
+    "HrefId": "pid-manifold-surface-temperature"
+  },
+  {
+    "DisplayName": "Timing Advance for #1 cylinder",
+    "Name": "timing_advance_for_1_cylinder",
+    "HrefId": "pid-timing-advance-for-1-cylinder"
+  },
+  {
+    "DisplayName": "Engine Run Time",
+    "Name": "engine_run_time",
+    "HrefId": "pid-engine-run-time"
+  },
+  {
+    "DisplayName": "Run Time Since Engine Start",
+    "Name": "run_time_since_engine_start",
+    "HrefId": "pid-run-time-since-engine-start"
+  },
+  {
+    "DisplayName": "Time Run with MIL On",
+    "Name": "time_run_with_mil_on",
+    "HrefId": "pid-time-run-with-mil-on"
+  },
+  {
+    "DisplayName": "Distance Traveled while MIL is Activated",
+    "Name": "distance_traveled_while_mil_is_activated",
+    "HrefId": "pid-distance-traveled-while-mil-is-activated"
+  },
+  {
+    "DisplayName": "Time since Trouble Codes Cleared",
+    "Name": "time_since_trouble_codes_cleared",
+    "HrefId": "pid-time-since-trouble-codes-cleared"
+  },
+  {
+    "DisplayName": "Distance Traveled Since Codes Cleared",
+    "Name": "distance_traveled_since_codes_cleared",
+    "HrefId": "pid-distance-traveled-since-codes-cleared"
+  },
+  {
+    "DisplayName": "Warm-ups Since Codes Cleared",
+    "Name": "warmups_since_codes_cleared",
+    "HrefId": "pid-warmups-since-codes-cleared"
+  },
+  {
+    "DisplayName": "Fuel System Status",
+    "Name": "fuel_system_status",
+    "HrefId": "pid-fuel-system-status"
+  },
+  {
+    "DisplayName": "Oxygen Sensor Voltage",
+    "Name": "oxygen_sensor_voltage",
+    "HrefId": "pid-oxygen-sensor-voltage"
+  },
+  {
+    "DisplayName": "Oxygen Sensor Equivalence Ratio",
+    "Name": "oxygen_sensor_equivalence_ratio",
+    "HrefId": "pid-oxygen-sensor-equivalence-ratio"
+  },
+  {
+    "DisplayName": "Oxygen Sensor Current",
+    "Name": "oxygen_sensor_current",
+    "HrefId": "pid-oxygen-sensor-current"
+  },
+  {
+    "DisplayName": "Short Term Fuel Trim",
+    "Name": "short_term_fuel_trim",
+    "HrefId": "pid-short-term-fuel-trim"
+  },
+  {
+    "DisplayName": "Long Term Fuel Trim",
+    "Name": "long_term_fuel_trim",
+    "HrefId": "pid-long-trim"
+  },
+  {
+    "DisplayName": "Commanded Equivalence Ratio",
+    "Name": "commanded_equivalence_ratio",
+    "HrefId": "pid-commanded-equivalence-ratio"
+  },
+  {
+    "DisplayName": "Mass Air Flow Rate",
+    "Name": "mass_air_flow_rate",
+    "HrefId": "pid-mass-air-flow-rate"
+  },
+  {
+    "DisplayName": "Intake Air Temperature",
+    "Name": "intake_air_temperature",
+    "HrefId": "pid-intake-air-temperature"
+  },
+  {
+    "DisplayName": "Intake Manifold Absolute Pressure",
+    "Name": "intake_manifold_absolute_pressure",
+    "HrefId": "pid-manifold-pressure"
+  },
+  {
+    "DisplayName": "Fuel Pressure (Gauge)",
+    "Name": "fuel_pressure_gauge",
+    "HrefId": "pid-fuel-pressure-gauge"
+  },
+  {
+    "DisplayName": "Fuel Rail Pressure",
+    "Name": "fuel_rail_pressure",
+    "HrefId": "pid-fuel-rail-pressure"
+  },
+  {
+    "DisplayName": "Fuel Rail Pressure (Absolute)",
+    "Name": "fuel_rail_pressure_absolute",
+    "HrefId": "pid-fuel-rail-pressure-absolute"
+  },
+  {
+    "DisplayName": "Fuel Rail Pressure (relative to manifold vacuum)",
+    "Name": "fuel_rail_pressure_relative_to_manifold_vacuum",
+    "HrefId": "pid-fuel-rail-pressure-relative-to-manifold-vacuum"
+  },
+  {
+    "DisplayName": "Alcohol Fuel %",
+    "Name": "alcohol_fuel_",
+    "HrefId": "pid-alcohol-fuel-"
+  },
+  {
+    "DisplayName": "Fuel Level Input",
+    "Name": "fuel_level_input",
+    "HrefId": "pid-fuel-level-input"
+  },
+  {
+    "DisplayName": "Engine Fuel Rate",
+    "Name": "engine_fuel_rate",
+    "HrefId": "pid-engine-fuel-rate"
+  },
+  {
+    "DisplayName": "Cylinder Fuel Rate",
+    "Name": "cylinder_fuel_rate",
+    "HrefId": "pid-cylinder-fuel-rate"
+  },
+  {
+    "DisplayName": "Fuel System Percentage Use",
+    "Name": "fuel_system_percentage_use",
+    "HrefId": "pid-fuel-system-percentage-use"
+  },
+  {
+    "DisplayName": "Fuel Injection Timing",
+    "Name": "fuel_injection_timing",
+    "HrefId": "pid-fuel-injection-timing"
+  },
+  {
+    "DisplayName": "Fuel System Control",
+    "Name": "fuel_system_control",
+    "HrefId": "pid-fuel-system-control"
+  },
+  {
+    "DisplayName": "Fuel Pressure Control System",
+    "Name": "fuel_pressure_control_system",
+    "HrefId": "pid-fuel-pressure-control-system"
+  },
+  {
+    "DisplayName": "Injection Pressure Control System",
+    "Name": "injection_pressure_control_system",
+    "HrefId": "pid-injection-pressure-control-system"
+  },
+  {
+    "DisplayName": "Boost Pressure Control",
+    "Name": "boost_pressure_control",
+    "HrefId": "pid-boost-pressure-control"
+  },
+  {
+    "DisplayName": "Turbocharger RPM",
+    "Name": "turbocharger_rpm",
+    "HrefId": "pid-turbocharger-rpm"
+  },
+  {
+    "DisplayName": "Turbocharger Temperature",
+    "Name": "turbocharger_temperature",
+    "HrefId": "pid-turbocharger-temperature"
+  },
+  {
+    "DisplayName": "Turbocharger Compressor Inlet Pressure Sensor",
+    "Name": "turbocharger_compressor_inlet_pressure_sensor",
+    "HrefId": "pid-turbocharger-compressor-inlet-pressure-sensor"
+  },
+  {
+    "DisplayName": "Variable Geometry Turbo (VGT) Control",
+    "Name": "variable_geometry_turbo_vgt_control",
+    "HrefId": "pid-variable-geometry-turbo-vgt-control"
+  },
+  {
+    "DisplayName": "Wastegate Control",
+    "Name": "wastegate_control",
+    "HrefId": "pid-wastegate-control"
+  },
+  {
+    "DisplayName": "Charge Air Cooler Temperature (CACT)",
+    "Name": "charge_air_cooler_temperature_cact",
+    "HrefId": "pid-charge-air-cooler-temperature-cact"
+  },
+  {
+    "DisplayName": "Commanded&nbsp;EGR",
+    "Name": "commandednbspegr",
+    "HrefId": "pid-command-egr"
+  },
+  {
+    "DisplayName": "EGR Error",
+    "Name": "egr_error",
+    "HrefId": "pid-egr-error"
+  },
+  {
+    "DisplayName": "Commanded Diesel Intake Air Flow Control",
+    "Name": "commanded_diesel_intake_air_flow_control",
+    "HrefId": "pid-commanded-diesel-intake-air-flow-control"
+  },
+  {
+    "DisplayName": "Exhaust Gas Recirculation Temperature",
+    "Name": "exhaust_gas_recirculation_temperature",
+    "HrefId": "pid-exhaust-gas-recirculation-temperature"
+  },
+  {
+    "DisplayName": "EVAP System Vapor Pressure",
+    "Name": "evap_system_vapor_pressure",
+    "HrefId": "pid-evap-system-vapor-pressure"
+  },
+  {
+    "DisplayName": "Absolute Evap System Vapor Pressure",
+    "Name": "absolute_evap_system_vapor_pressure",
+    "HrefId": "pid-absolute-evap-system-vapor-pressure"
+  },
+  {
+    "DisplayName": "Commanded Evaporative Purge",
+    "Name": "commanded_evaporative_purge",
+    "HrefId": "pid-commanded-evaporative-purge"
+  },
+  {
+    "DisplayName": "Catalyst Temperature",
+    "Name": "catalyst_temperature",
+    "HrefId": "pid-catalyst-temperature"
+  },
+  {
+    "DisplayName": "Diesel Aftertreatment Status",
+    "Name": "diesel_aftertreatment_status",
+    "HrefId": "pid-diesel-aftertreatment-status"
+  },
+  {
+    "DisplayName": "Diesel Exhaust Fluid Sensor Data",
+    "Name": "diesel_exhaust_fluid_sensor_data",
+    "HrefId": "pid-diesel-exhaust-fluid-sensor-data"
+  },
+  {
+    "DisplayName": "Diesel Particulate Filter (DPF)",
+    "Name": "diesel_particulate_filter_dpf",
+    "HrefId": "pid-part-filter"
+  },
+  {
+    "DisplayName": "Diesel Particulate Filter (DPF) Temperature",
+    "Name": "diesel_particulate_filter_dpf_temperature",
+    "HrefId": "pid-diesel-particulate-filter-dpf-temperature"
+  },
+  {
+    "DisplayName": "NOx Sensor",
+    "Name": "nox_sensor",
+    "HrefId": "pid-nox-sensor"
+  },
+  {
+    "DisplayName": "NOx Control System",
+    "Name": "nox_control_system",
+    "HrefId": "pid-nox-control-system"
+  },
+  {
+    "DisplayName": "NOx Sensor Corrected Data",
+    "Name": "nox_sensor_corrected_data",
+    "HrefId": "pid-nox-sensor-corrected-data"
+  },
+  {
+    "DisplayName": "NOx NTE Control Area Status",
+    "Name": "nox_nte_control_area_status",
+    "HrefId": "pid-nox-nte-control-area-status"
+  },
+  {
+    "DisplayName": "PM Sensor Bank 1 &amp; 2",
+    "Name": "pm_sensor_bank_1_amp_2",
+    "HrefId": "pid-pm-sensor-bank-1-amp-2"
+  },
+  {
+    "DisplayName": "Particulate Matter (PM) Sensor",
+    "Name": "particulate_matter_pm_sensor",
+    "HrefId": "pid-particulate-matter-pm-sensor"
+  },
+  {
+    "DisplayName": "PM NTE Control Area Status",
+    "Name": "pm_nte_control_area_status",
+    "HrefId": "pid-pm-nte-control-area-status"
+  },
+  {
+    "DisplayName": "SCR Inducement System",
+    "Name": "scr_inducement_system",
+    "HrefId": "pid-scr-inducement"
+  },
+  {
+    "DisplayName": "NOx Warning And Inducement System",
+    "Name": "nox_warning_and_inducement_system",
+    "HrefId": "pid-nox-warning-and-inducement-system"
+  },
+  {
+    "DisplayName": "Engine Run Time for AECD",
+    "Name": "engine_run_time_for_aecd",
+    "HrefId": "pid-engine-run-time-for-aecd"
+  }
+]
